@@ -11,7 +11,7 @@ How To Use
 
 1. clone repository or download as zip
 2. extract files
-3. replace "<OpenAI API Key>" with your OpenAI Key i.e "whcvihv8boevcio3b2bob4u942biofpncpohdbxpjd" 
-NOTE: to get API Key set up an account on openAI website https://openai.com/api/
+3. replace <OpenAI API Key> in the myKey.py with your OpenAI Key i.e "whcvihv8boevcio3b2bob4u942biofpncpohdbxpjd" 
+  NOTE: to get API Key set up an account on openAI website https://openai.com/api/
 
 All Done Now save your changes and RUN Buddy.py
